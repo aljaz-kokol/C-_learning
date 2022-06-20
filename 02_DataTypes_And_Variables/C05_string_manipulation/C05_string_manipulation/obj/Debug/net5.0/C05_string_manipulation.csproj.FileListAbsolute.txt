@@ -1,0 +1,16 @@
+F:\Programiranje\C_C++_C#\C#\C-_learning\02_DataTypes_And_Variables\C05_string_manipulation\C05_string_manipulation\bin\Debug\net5.0\C05_string_manipulation.exe
+F:\Programiranje\C_C++_C#\C#\C-_learning\02_DataTypes_And_Variables\C05_string_manipulation\C05_string_manipulation\bin\Debug\net5.0\C05_string_manipulation.deps.json
+F:\Programiranje\C_C++_C#\C#\C-_learning\02_DataTypes_And_Variables\C05_string_manipulation\C05_string_manipulation\bin\Debug\net5.0\C05_string_manipulation.runtimeconfig.json
+F:\Programiranje\C_C++_C#\C#\C-_learning\02_DataTypes_And_Variables\C05_string_manipulation\C05_string_manipulation\bin\Debug\net5.0\C05_string_manipulation.runtimeconfig.dev.json
+F:\Programiranje\C_C++_C#\C#\C-_learning\02_DataTypes_And_Variables\C05_string_manipulation\C05_string_manipulation\bin\Debug\net5.0\C05_string_manipulation.dll
+F:\Programiranje\C_C++_C#\C#\C-_learning\02_DataTypes_And_Variables\C05_string_manipulation\C05_string_manipulation\bin\Debug\net5.0\ref\C05_string_manipulation.dll
+F:\Programiranje\C_C++_C#\C#\C-_learning\02_DataTypes_And_Variables\C05_string_manipulation\C05_string_manipulation\bin\Debug\net5.0\C05_string_manipulation.pdb
+F:\Programiranje\C_C++_C#\C#\C-_learning\02_DataTypes_And_Variables\C05_string_manipulation\C05_string_manipulation\obj\Debug\net5.0\C05_string_manipulation.csprojAssemblyReference.cache
+F:\Programiranje\C_C++_C#\C#\C-_learning\02_DataTypes_And_Variables\C05_string_manipulation\C05_string_manipulation\obj\Debug\net5.0\C05_string_manipulation.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programiranje\C_C++_C#\C#\C-_learning\02_DataTypes_And_Variables\C05_string_manipulation\C05_string_manipulation\obj\Debug\net5.0\C05_string_manipulation.AssemblyInfoInputs.cache
+F:\Programiranje\C_C++_C#\C#\C-_learning\02_DataTypes_And_Variables\C05_string_manipulation\C05_string_manipulation\obj\Debug\net5.0\C05_string_manipulation.AssemblyInfo.cs
+F:\Programiranje\C_C++_C#\C#\C-_learning\02_DataTypes_And_Variables\C05_string_manipulation\C05_string_manipulation\obj\Debug\net5.0\C05_string_manipulation.csproj.CoreCompileInputs.cache
+F:\Programiranje\C_C++_C#\C#\C-_learning\02_DataTypes_And_Variables\C05_string_manipulation\C05_string_manipulation\obj\Debug\net5.0\C05_string_manipulation.dll
+F:\Programiranje\C_C++_C#\C#\C-_learning\02_DataTypes_And_Variables\C05_string_manipulation\C05_string_manipulation\obj\Debug\net5.0\ref\C05_string_manipulation.dll
+F:\Programiranje\C_C++_C#\C#\C-_learning\02_DataTypes_And_Variables\C05_string_manipulation\C05_string_manipulation\obj\Debug\net5.0\C05_string_manipulation.pdb
+F:\Programiranje\C_C++_C#\C#\C-_learning\02_DataTypes_And_Variables\C05_string_manipulation\C05_string_manipulation\obj\Debug\net5.0\C05_string_manipulation.genruntimeconfig.cache

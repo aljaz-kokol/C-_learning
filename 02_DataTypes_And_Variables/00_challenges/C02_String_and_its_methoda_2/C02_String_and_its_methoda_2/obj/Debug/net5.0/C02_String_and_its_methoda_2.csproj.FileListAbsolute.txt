@@ -1,0 +1,16 @@
+F:\Programiranje\C_C++_C#\C#\C-_learning\02_DataTypes_And_Variables\00_challenges\C02_String_and_its_methoda_2\C02_String_and_its_methoda_2\obj\Debug\net5.0\C02_String_and_its_methoda_2.csprojAssemblyReference.cache
+F:\Programiranje\C_C++_C#\C#\C-_learning\02_DataTypes_And_Variables\00_challenges\C02_String_and_its_methoda_2\C02_String_and_its_methoda_2\obj\Debug\net5.0\C02_String_and_its_methoda_2.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programiranje\C_C++_C#\C#\C-_learning\02_DataTypes_And_Variables\00_challenges\C02_String_and_its_methoda_2\C02_String_and_its_methoda_2\obj\Debug\net5.0\C02_String_and_its_methoda_2.AssemblyInfoInputs.cache
+F:\Programiranje\C_C++_C#\C#\C-_learning\02_DataTypes_And_Variables\00_challenges\C02_String_and_its_methoda_2\C02_String_and_its_methoda_2\obj\Debug\net5.0\C02_String_and_its_methoda_2.AssemblyInfo.cs
+F:\Programiranje\C_C++_C#\C#\C-_learning\02_DataTypes_And_Variables\00_challenges\C02_String_and_its_methoda_2\C02_String_and_its_methoda_2\obj\Debug\net5.0\C02_String_and_its_methoda_2.csproj.CoreCompileInputs.cache
+F:\Programiranje\C_C++_C#\C#\C-_learning\02_DataTypes_And_Variables\00_challenges\C02_String_and_its_methoda_2\C02_String_and_its_methoda_2\bin\Debug\net5.0\C02_String_and_its_methoda_2.exe
+F:\Programiranje\C_C++_C#\C#\C-_learning\02_DataTypes_And_Variables\00_challenges\C02_String_and_its_methoda_2\C02_String_and_its_methoda_2\bin\Debug\net5.0\C02_String_and_its_methoda_2.deps.json
+F:\Programiranje\C_C++_C#\C#\C-_learning\02_DataTypes_And_Variables\00_challenges\C02_String_and_its_methoda_2\C02_String_and_its_methoda_2\bin\Debug\net5.0\C02_String_and_its_methoda_2.runtimeconfig.json
+F:\Programiranje\C_C++_C#\C#\C-_learning\02_DataTypes_And_Variables\00_challenges\C02_String_and_its_methoda_2\C02_String_and_its_methoda_2\bin\Debug\net5.0\C02_String_and_its_methoda_2.runtimeconfig.dev.json
+F:\Programiranje\C_C++_C#\C#\C-_learning\02_DataTypes_And_Variables\00_challenges\C02_String_and_its_methoda_2\C02_String_and_its_methoda_2\bin\Debug\net5.0\C02_String_and_its_methoda_2.dll
+F:\Programiranje\C_C++_C#\C#\C-_learning\02_DataTypes_And_Variables\00_challenges\C02_String_and_its_methoda_2\C02_String_and_its_methoda_2\bin\Debug\net5.0\ref\C02_String_and_its_methoda_2.dll
+F:\Programiranje\C_C++_C#\C#\C-_learning\02_DataTypes_And_Variables\00_challenges\C02_String_and_its_methoda_2\C02_String_and_its_methoda_2\bin\Debug\net5.0\C02_String_and_its_methoda_2.pdb
+F:\Programiranje\C_C++_C#\C#\C-_learning\02_DataTypes_And_Variables\00_challenges\C02_String_and_its_methoda_2\C02_String_and_its_methoda_2\obj\Debug\net5.0\C02_String_and_its_methoda_2.dll
+F:\Programiranje\C_C++_C#\C#\C-_learning\02_DataTypes_And_Variables\00_challenges\C02_String_and_its_methoda_2\C02_String_and_its_methoda_2\obj\Debug\net5.0\ref\C02_String_and_its_methoda_2.dll
+F:\Programiranje\C_C++_C#\C#\C-_learning\02_DataTypes_And_Variables\00_challenges\C02_String_and_its_methoda_2\C02_String_and_its_methoda_2\obj\Debug\net5.0\C02_String_and_its_methoda_2.pdb
+F:\Programiranje\C_C++_C#\C#\C-_learning\02_DataTypes_And_Variables\00_challenges\C02_String_and_its_methoda_2\C02_String_and_its_methoda_2\obj\Debug\net5.0\C02_String_and_its_methoda_2.genruntimeconfig.cache

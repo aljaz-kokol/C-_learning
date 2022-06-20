@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "C02_String_and_its_methoda_2/1.0.0": {
+        "runtime": {
+          "C02_String_and_its_methoda_2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C02_String_and_its_methoda_2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

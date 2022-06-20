@@ -1,0 +1,16 @@
+F:\Programiranje\C_C++_C#\C#\C-_learning\02_DataTypes_And_Variables\C06_string_methods\C06_string_methods\bin\Debug\net5.0\C06_string_methods.exe
+F:\Programiranje\C_C++_C#\C#\C-_learning\02_DataTypes_And_Variables\C06_string_methods\C06_string_methods\bin\Debug\net5.0\C06_string_methods.deps.json
+F:\Programiranje\C_C++_C#\C#\C-_learning\02_DataTypes_And_Variables\C06_string_methods\C06_string_methods\bin\Debug\net5.0\C06_string_methods.runtimeconfig.json
+F:\Programiranje\C_C++_C#\C#\C-_learning\02_DataTypes_And_Variables\C06_string_methods\C06_string_methods\bin\Debug\net5.0\C06_string_methods.runtimeconfig.dev.json
+F:\Programiranje\C_C++_C#\C#\C-_learning\02_DataTypes_And_Variables\C06_string_methods\C06_string_methods\bin\Debug\net5.0\C06_string_methods.dll
+F:\Programiranje\C_C++_C#\C#\C-_learning\02_DataTypes_And_Variables\C06_string_methods\C06_string_methods\bin\Debug\net5.0\ref\C06_string_methods.dll
+F:\Programiranje\C_C++_C#\C#\C-_learning\02_DataTypes_And_Variables\C06_string_methods\C06_string_methods\bin\Debug\net5.0\C06_string_methods.pdb
+F:\Programiranje\C_C++_C#\C#\C-_learning\02_DataTypes_And_Variables\C06_string_methods\C06_string_methods\obj\Debug\net5.0\C06_string_methods.csprojAssemblyReference.cache
+F:\Programiranje\C_C++_C#\C#\C-_learning\02_DataTypes_And_Variables\C06_string_methods\C06_string_methods\obj\Debug\net5.0\C06_string_methods.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programiranje\C_C++_C#\C#\C-_learning\02_DataTypes_And_Variables\C06_string_methods\C06_string_methods\obj\Debug\net5.0\C06_string_methods.AssemblyInfoInputs.cache
+F:\Programiranje\C_C++_C#\C#\C-_learning\02_DataTypes_And_Variables\C06_string_methods\C06_string_methods\obj\Debug\net5.0\C06_string_methods.AssemblyInfo.cs
+F:\Programiranje\C_C++_C#\C#\C-_learning\02_DataTypes_And_Variables\C06_string_methods\C06_string_methods\obj\Debug\net5.0\C06_string_methods.csproj.CoreCompileInputs.cache
+F:\Programiranje\C_C++_C#\C#\C-_learning\02_DataTypes_And_Variables\C06_string_methods\C06_string_methods\obj\Debug\net5.0\C06_string_methods.dll
+F:\Programiranje\C_C++_C#\C#\C-_learning\02_DataTypes_And_Variables\C06_string_methods\C06_string_methods\obj\Debug\net5.0\ref\C06_string_methods.dll
+F:\Programiranje\C_C++_C#\C#\C-_learning\02_DataTypes_And_Variables\C06_string_methods\C06_string_methods\obj\Debug\net5.0\C06_string_methods.pdb
+F:\Programiranje\C_C++_C#\C#\C-_learning\02_DataTypes_And_Variables\C06_string_methods\C06_string_methods\obj\Debug\net5.0\C06_string_methods.genruntimeconfig.cache
