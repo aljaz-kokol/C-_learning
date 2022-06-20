@@ -1,0 +1,16 @@
+F:\Programiranje\C_C++_C#\C#\C-_learning\03_methods\C02_try_catch_finally\C02_try_catch_finally\bin\Debug\net5.0\C02_try_catch_finally.exe
+F:\Programiranje\C_C++_C#\C#\C-_learning\03_methods\C02_try_catch_finally\C02_try_catch_finally\bin\Debug\net5.0\C02_try_catch_finally.deps.json
+F:\Programiranje\C_C++_C#\C#\C-_learning\03_methods\C02_try_catch_finally\C02_try_catch_finally\bin\Debug\net5.0\C02_try_catch_finally.runtimeconfig.json
+F:\Programiranje\C_C++_C#\C#\C-_learning\03_methods\C02_try_catch_finally\C02_try_catch_finally\bin\Debug\net5.0\C02_try_catch_finally.runtimeconfig.dev.json
+F:\Programiranje\C_C++_C#\C#\C-_learning\03_methods\C02_try_catch_finally\C02_try_catch_finally\bin\Debug\net5.0\C02_try_catch_finally.dll
+F:\Programiranje\C_C++_C#\C#\C-_learning\03_methods\C02_try_catch_finally\C02_try_catch_finally\bin\Debug\net5.0\ref\C02_try_catch_finally.dll
+F:\Programiranje\C_C++_C#\C#\C-_learning\03_methods\C02_try_catch_finally\C02_try_catch_finally\bin\Debug\net5.0\C02_try_catch_finally.pdb
+F:\Programiranje\C_C++_C#\C#\C-_learning\03_methods\C02_try_catch_finally\C02_try_catch_finally\obj\Debug\net5.0\C02_try_catch_finally.csprojAssemblyReference.cache
+F:\Programiranje\C_C++_C#\C#\C-_learning\03_methods\C02_try_catch_finally\C02_try_catch_finally\obj\Debug\net5.0\C02_try_catch_finally.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programiranje\C_C++_C#\C#\C-_learning\03_methods\C02_try_catch_finally\C02_try_catch_finally\obj\Debug\net5.0\C02_try_catch_finally.AssemblyInfoInputs.cache
+F:\Programiranje\C_C++_C#\C#\C-_learning\03_methods\C02_try_catch_finally\C02_try_catch_finally\obj\Debug\net5.0\C02_try_catch_finally.AssemblyInfo.cs
+F:\Programiranje\C_C++_C#\C#\C-_learning\03_methods\C02_try_catch_finally\C02_try_catch_finally\obj\Debug\net5.0\C02_try_catch_finally.csproj.CoreCompileInputs.cache
+F:\Programiranje\C_C++_C#\C#\C-_learning\03_methods\C02_try_catch_finally\C02_try_catch_finally\obj\Debug\net5.0\C02_try_catch_finally.dll
+F:\Programiranje\C_C++_C#\C#\C-_learning\03_methods\C02_try_catch_finally\C02_try_catch_finally\obj\Debug\net5.0\ref\C02_try_catch_finally.dll
+F:\Programiranje\C_C++_C#\C#\C-_learning\03_methods\C02_try_catch_finally\C02_try_catch_finally\obj\Debug\net5.0\C02_try_catch_finally.pdb
+F:\Programiranje\C_C++_C#\C#\C-_learning\03_methods\C02_try_catch_finally\C02_try_catch_finally\obj\Debug\net5.0\C02_try_catch_finally.genruntimeconfig.cache
