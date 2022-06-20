@@ -1,0 +1,16 @@
+F:\Programiranje\C_C++_C#\C#\C-_learning\02_DataTypes_And_Variables\C01_vars_and_datatypes\C01_vars_and_datatypes\bin\Debug\net5.0\C01_vars_and_datatypes.exe
+F:\Programiranje\C_C++_C#\C#\C-_learning\02_DataTypes_And_Variables\C01_vars_and_datatypes\C01_vars_and_datatypes\bin\Debug\net5.0\C01_vars_and_datatypes.deps.json
+F:\Programiranje\C_C++_C#\C#\C-_learning\02_DataTypes_And_Variables\C01_vars_and_datatypes\C01_vars_and_datatypes\bin\Debug\net5.0\C01_vars_and_datatypes.runtimeconfig.json
+F:\Programiranje\C_C++_C#\C#\C-_learning\02_DataTypes_And_Variables\C01_vars_and_datatypes\C01_vars_and_datatypes\bin\Debug\net5.0\C01_vars_and_datatypes.runtimeconfig.dev.json
+F:\Programiranje\C_C++_C#\C#\C-_learning\02_DataTypes_And_Variables\C01_vars_and_datatypes\C01_vars_and_datatypes\bin\Debug\net5.0\C01_vars_and_datatypes.dll
+F:\Programiranje\C_C++_C#\C#\C-_learning\02_DataTypes_And_Variables\C01_vars_and_datatypes\C01_vars_and_datatypes\bin\Debug\net5.0\ref\C01_vars_and_datatypes.dll
+F:\Programiranje\C_C++_C#\C#\C-_learning\02_DataTypes_And_Variables\C01_vars_and_datatypes\C01_vars_and_datatypes\bin\Debug\net5.0\C01_vars_and_datatypes.pdb
+F:\Programiranje\C_C++_C#\C#\C-_learning\02_DataTypes_And_Variables\C01_vars_and_datatypes\C01_vars_and_datatypes\obj\Debug\net5.0\C01_vars_and_datatypes.csprojAssemblyReference.cache
+F:\Programiranje\C_C++_C#\C#\C-_learning\02_DataTypes_And_Variables\C01_vars_and_datatypes\C01_vars_and_datatypes\obj\Debug\net5.0\C01_vars_and_datatypes.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programiranje\C_C++_C#\C#\C-_learning\02_DataTypes_And_Variables\C01_vars_and_datatypes\C01_vars_and_datatypes\obj\Debug\net5.0\C01_vars_and_datatypes.AssemblyInfoInputs.cache
+F:\Programiranje\C_C++_C#\C#\C-_learning\02_DataTypes_And_Variables\C01_vars_and_datatypes\C01_vars_and_datatypes\obj\Debug\net5.0\C01_vars_and_datatypes.AssemblyInfo.cs
+F:\Programiranje\C_C++_C#\C#\C-_learning\02_DataTypes_And_Variables\C01_vars_and_datatypes\C01_vars_and_datatypes\obj\Debug\net5.0\C01_vars_and_datatypes.csproj.CoreCompileInputs.cache
+F:\Programiranje\C_C++_C#\C#\C-_learning\02_DataTypes_And_Variables\C01_vars_and_datatypes\C01_vars_and_datatypes\obj\Debug\net5.0\C01_vars_and_datatypes.dll
+F:\Programiranje\C_C++_C#\C#\C-_learning\02_DataTypes_And_Variables\C01_vars_and_datatypes\C01_vars_and_datatypes\obj\Debug\net5.0\ref\C01_vars_and_datatypes.dll
+F:\Programiranje\C_C++_C#\C#\C-_learning\02_DataTypes_And_Variables\C01_vars_and_datatypes\C01_vars_and_datatypes\obj\Debug\net5.0\C01_vars_and_datatypes.pdb
+F:\Programiranje\C_C++_C#\C#\C-_learning\02_DataTypes_And_Variables\C01_vars_and_datatypes\C01_vars_and_datatypes\obj\Debug\net5.0\C01_vars_and_datatypes.genruntimeconfig.cache

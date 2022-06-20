@@ -1,0 +1,16 @@
+F:\Programiranje\C_C++_C#\C#\C-_learning\02_DataTypes_And_Variables\C04_implicit_explicit_conversion\C04_implicit_explicit_conversion\bin\Debug\net5.0\C04_implicit_explicit_conversion.exe
+F:\Programiranje\C_C++_C#\C#\C-_learning\02_DataTypes_And_Variables\C04_implicit_explicit_conversion\C04_implicit_explicit_conversion\bin\Debug\net5.0\C04_implicit_explicit_conversion.deps.json
+F:\Programiranje\C_C++_C#\C#\C-_learning\02_DataTypes_And_Variables\C04_implicit_explicit_conversion\C04_implicit_explicit_conversion\bin\Debug\net5.0\C04_implicit_explicit_conversion.runtimeconfig.json
+F:\Programiranje\C_C++_C#\C#\C-_learning\02_DataTypes_And_Variables\C04_implicit_explicit_conversion\C04_implicit_explicit_conversion\bin\Debug\net5.0\C04_implicit_explicit_conversion.runtimeconfig.dev.json
+F:\Programiranje\C_C++_C#\C#\C-_learning\02_DataTypes_And_Variables\C04_implicit_explicit_conversion\C04_implicit_explicit_conversion\bin\Debug\net5.0\C04_implicit_explicit_conversion.dll
+F:\Programiranje\C_C++_C#\C#\C-_learning\02_DataTypes_And_Variables\C04_implicit_explicit_conversion\C04_implicit_explicit_conversion\bin\Debug\net5.0\ref\C04_implicit_explicit_conversion.dll
+F:\Programiranje\C_C++_C#\C#\C-_learning\02_DataTypes_And_Variables\C04_implicit_explicit_conversion\C04_implicit_explicit_conversion\bin\Debug\net5.0\C04_implicit_explicit_conversion.pdb
+F:\Programiranje\C_C++_C#\C#\C-_learning\02_DataTypes_And_Variables\C04_implicit_explicit_conversion\C04_implicit_explicit_conversion\obj\Debug\net5.0\C04_implicit_explicit_conversion.csprojAssemblyReference.cache
+F:\Programiranje\C_C++_C#\C#\C-_learning\02_DataTypes_And_Variables\C04_implicit_explicit_conversion\C04_implicit_explicit_conversion\obj\Debug\net5.0\C04_implicit_explicit_conversion.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programiranje\C_C++_C#\C#\C-_learning\02_DataTypes_And_Variables\C04_implicit_explicit_conversion\C04_implicit_explicit_conversion\obj\Debug\net5.0\C04_implicit_explicit_conversion.AssemblyInfoInputs.cache
+F:\Programiranje\C_C++_C#\C#\C-_learning\02_DataTypes_And_Variables\C04_implicit_explicit_conversion\C04_implicit_explicit_conversion\obj\Debug\net5.0\C04_implicit_explicit_conversion.AssemblyInfo.cs
+F:\Programiranje\C_C++_C#\C#\C-_learning\02_DataTypes_And_Variables\C04_implicit_explicit_conversion\C04_implicit_explicit_conversion\obj\Debug\net5.0\C04_implicit_explicit_conversion.csproj.CoreCompileInputs.cache
+F:\Programiranje\C_C++_C#\C#\C-_learning\02_DataTypes_And_Variables\C04_implicit_explicit_conversion\C04_implicit_explicit_conversion\obj\Debug\net5.0\C04_implicit_explicit_conversion.dll
+F:\Programiranje\C_C++_C#\C#\C-_learning\02_DataTypes_And_Variables\C04_implicit_explicit_conversion\C04_implicit_explicit_conversion\obj\Debug\net5.0\ref\C04_implicit_explicit_conversion.dll
+F:\Programiranje\C_C++_C#\C#\C-_learning\02_DataTypes_And_Variables\C04_implicit_explicit_conversion\C04_implicit_explicit_conversion\obj\Debug\net5.0\C04_implicit_explicit_conversion.pdb
+F:\Programiranje\C_C++_C#\C#\C-_learning\02_DataTypes_And_Variables\C04_implicit_explicit_conversion\C04_implicit_explicit_conversion\obj\Debug\net5.0\C04_implicit_explicit_conversion.genruntimeconfig.cache

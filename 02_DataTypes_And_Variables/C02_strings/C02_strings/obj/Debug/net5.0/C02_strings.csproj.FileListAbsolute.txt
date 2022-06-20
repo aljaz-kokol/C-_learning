@@ -1,0 +1,16 @@
+F:\Programiranje\C_C++_C#\C#\C-_learning\02_DataTypes_And_Variables\C02_strings\C02_strings\bin\Debug\net5.0\C02_strings.exe
+F:\Programiranje\C_C++_C#\C#\C-_learning\02_DataTypes_And_Variables\C02_strings\C02_strings\bin\Debug\net5.0\C02_strings.deps.json
+F:\Programiranje\C_C++_C#\C#\C-_learning\02_DataTypes_And_Variables\C02_strings\C02_strings\bin\Debug\net5.0\C02_strings.runtimeconfig.json
+F:\Programiranje\C_C++_C#\C#\C-_learning\02_DataTypes_And_Variables\C02_strings\C02_strings\bin\Debug\net5.0\C02_strings.runtimeconfig.dev.json
+F:\Programiranje\C_C++_C#\C#\C-_learning\02_DataTypes_And_Variables\C02_strings\C02_strings\bin\Debug\net5.0\C02_strings.dll
+F:\Programiranje\C_C++_C#\C#\C-_learning\02_DataTypes_And_Variables\C02_strings\C02_strings\bin\Debug\net5.0\ref\C02_strings.dll
+F:\Programiranje\C_C++_C#\C#\C-_learning\02_DataTypes_And_Variables\C02_strings\C02_strings\bin\Debug\net5.0\C02_strings.pdb
+F:\Programiranje\C_C++_C#\C#\C-_learning\02_DataTypes_And_Variables\C02_strings\C02_strings\obj\Debug\net5.0\C02_strings.csprojAssemblyReference.cache
+F:\Programiranje\C_C++_C#\C#\C-_learning\02_DataTypes_And_Variables\C02_strings\C02_strings\obj\Debug\net5.0\C02_strings.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programiranje\C_C++_C#\C#\C-_learning\02_DataTypes_And_Variables\C02_strings\C02_strings\obj\Debug\net5.0\C02_strings.AssemblyInfoInputs.cache
+F:\Programiranje\C_C++_C#\C#\C-_learning\02_DataTypes_And_Variables\C02_strings\C02_strings\obj\Debug\net5.0\C02_strings.AssemblyInfo.cs
+F:\Programiranje\C_C++_C#\C#\C-_learning\02_DataTypes_And_Variables\C02_strings\C02_strings\obj\Debug\net5.0\C02_strings.csproj.CoreCompileInputs.cache
+F:\Programiranje\C_C++_C#\C#\C-_learning\02_DataTypes_And_Variables\C02_strings\C02_strings\obj\Debug\net5.0\C02_strings.dll
+F:\Programiranje\C_C++_C#\C#\C-_learning\02_DataTypes_And_Variables\C02_strings\C02_strings\obj\Debug\net5.0\ref\C02_strings.dll
+F:\Programiranje\C_C++_C#\C#\C-_learning\02_DataTypes_And_Variables\C02_strings\C02_strings\obj\Debug\net5.0\C02_strings.pdb
+F:\Programiranje\C_C++_C#\C#\C-_learning\02_DataTypes_And_Variables\C02_strings\C02_strings\obj\Debug\net5.0\C02_strings.genruntimeconfig.cache
