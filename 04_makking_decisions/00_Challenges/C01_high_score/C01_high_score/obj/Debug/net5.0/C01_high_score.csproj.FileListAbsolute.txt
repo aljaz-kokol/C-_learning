@@ -1,0 +1,16 @@
+F:\Programiranje\C_C++_C#\C#\C-_learning\04_makking_decisions\00_Challenges\C01_high_score\C01_high_score\bin\Debug\net5.0\C01_high_score.exe
+F:\Programiranje\C_C++_C#\C#\C-_learning\04_makking_decisions\00_Challenges\C01_high_score\C01_high_score\bin\Debug\net5.0\C01_high_score.deps.json
+F:\Programiranje\C_C++_C#\C#\C-_learning\04_makking_decisions\00_Challenges\C01_high_score\C01_high_score\bin\Debug\net5.0\C01_high_score.runtimeconfig.json
+F:\Programiranje\C_C++_C#\C#\C-_learning\04_makking_decisions\00_Challenges\C01_high_score\C01_high_score\bin\Debug\net5.0\C01_high_score.runtimeconfig.dev.json
+F:\Programiranje\C_C++_C#\C#\C-_learning\04_makking_decisions\00_Challenges\C01_high_score\C01_high_score\bin\Debug\net5.0\C01_high_score.dll
+F:\Programiranje\C_C++_C#\C#\C-_learning\04_makking_decisions\00_Challenges\C01_high_score\C01_high_score\bin\Debug\net5.0\ref\C01_high_score.dll
+F:\Programiranje\C_C++_C#\C#\C-_learning\04_makking_decisions\00_Challenges\C01_high_score\C01_high_score\bin\Debug\net5.0\C01_high_score.pdb
+F:\Programiranje\C_C++_C#\C#\C-_learning\04_makking_decisions\00_Challenges\C01_high_score\C01_high_score\obj\Debug\net5.0\C01_high_score.csprojAssemblyReference.cache
+F:\Programiranje\C_C++_C#\C#\C-_learning\04_makking_decisions\00_Challenges\C01_high_score\C01_high_score\obj\Debug\net5.0\C01_high_score.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programiranje\C_C++_C#\C#\C-_learning\04_makking_decisions\00_Challenges\C01_high_score\C01_high_score\obj\Debug\net5.0\C01_high_score.AssemblyInfoInputs.cache
+F:\Programiranje\C_C++_C#\C#\C-_learning\04_makking_decisions\00_Challenges\C01_high_score\C01_high_score\obj\Debug\net5.0\C01_high_score.AssemblyInfo.cs
+F:\Programiranje\C_C++_C#\C#\C-_learning\04_makking_decisions\00_Challenges\C01_high_score\C01_high_score\obj\Debug\net5.0\C01_high_score.csproj.CoreCompileInputs.cache
+F:\Programiranje\C_C++_C#\C#\C-_learning\04_makking_decisions\00_Challenges\C01_high_score\C01_high_score\obj\Debug\net5.0\C01_high_score.dll
+F:\Programiranje\C_C++_C#\C#\C-_learning\04_makking_decisions\00_Challenges\C01_high_score\C01_high_score\obj\Debug\net5.0\ref\C01_high_score.dll
+F:\Programiranje\C_C++_C#\C#\C-_learning\04_makking_decisions\00_Challenges\C01_high_score\C01_high_score\obj\Debug\net5.0\C01_high_score.pdb
+F:\Programiranje\C_C++_C#\C#\C-_learning\04_makking_decisions\00_Challenges\C01_high_score\C01_high_score\obj\Debug\net5.0\C01_high_score.genruntimeconfig.cache

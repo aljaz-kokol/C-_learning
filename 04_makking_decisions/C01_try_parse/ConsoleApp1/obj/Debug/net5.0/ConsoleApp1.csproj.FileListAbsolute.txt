@@ -1,0 +1,16 @@
+F:\Programiranje\C_C++_C#\C#\C-_learning\04_makking_decisions\C01_try_parse\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.exe
+F:\Programiranje\C_C++_C#\C#\C-_learning\04_makking_decisions\C01_try_parse\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.deps.json
+F:\Programiranje\C_C++_C#\C#\C-_learning\04_makking_decisions\C01_try_parse\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.json
+F:\Programiranje\C_C++_C#\C#\C-_learning\04_makking_decisions\C01_try_parse\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.dev.json
+F:\Programiranje\C_C++_C#\C#\C-_learning\04_makking_decisions\C01_try_parse\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.dll
+F:\Programiranje\C_C++_C#\C#\C-_learning\04_makking_decisions\C01_try_parse\ConsoleApp1\bin\Debug\net5.0\ref\ConsoleApp1.dll
+F:\Programiranje\C_C++_C#\C#\C-_learning\04_makking_decisions\C01_try_parse\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.pdb
+F:\Programiranje\C_C++_C#\C#\C-_learning\04_makking_decisions\C01_try_parse\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csprojAssemblyReference.cache
+F:\Programiranje\C_C++_C#\C#\C-_learning\04_makking_decisions\C01_try_parse\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programiranje\C_C++_C#\C#\C-_learning\04_makking_decisions\C01_try_parse\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfoInputs.cache
+F:\Programiranje\C_C++_C#\C#\C-_learning\04_makking_decisions\C01_try_parse\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfo.cs
+F:\Programiranje\C_C++_C#\C#\C-_learning\04_makking_decisions\C01_try_parse\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+F:\Programiranje\C_C++_C#\C#\C-_learning\04_makking_decisions\C01_try_parse\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.dll
+F:\Programiranje\C_C++_C#\C#\C-_learning\04_makking_decisions\C01_try_parse\ConsoleApp1\obj\Debug\net5.0\ref\ConsoleApp1.dll
+F:\Programiranje\C_C++_C#\C#\C-_learning\04_makking_decisions\C01_try_parse\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.pdb
+F:\Programiranje\C_C++_C#\C#\C-_learning\04_makking_decisions\C01_try_parse\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+F:\Programiranje\C_C++_C#\C#\C-_learning\06_OOP\C01_first_class\C01_first_class\bin\Debug\net5.0\C01_first_class.exe
+F:\Programiranje\C_C++_C#\C#\C-_learning\06_OOP\C01_first_class\C01_first_class\bin\Debug\net5.0\C01_first_class.deps.json
+F:\Programiranje\C_C++_C#\C#\C-_learning\06_OOP\C01_first_class\C01_first_class\bin\Debug\net5.0\C01_first_class.runtimeconfig.json
+F:\Programiranje\C_C++_C#\C#\C-_learning\06_OOP\C01_first_class\C01_first_class\bin\Debug\net5.0\C01_first_class.runtimeconfig.dev.json
+F:\Programiranje\C_C++_C#\C#\C-_learning\06_OOP\C01_first_class\C01_first_class\bin\Debug\net5.0\C01_first_class.dll
+F:\Programiranje\C_C++_C#\C#\C-_learning\06_OOP\C01_first_class\C01_first_class\bin\Debug\net5.0\ref\C01_first_class.dll
+F:\Programiranje\C_C++_C#\C#\C-_learning\06_OOP\C01_first_class\C01_first_class\bin\Debug\net5.0\C01_first_class.pdb
+F:\Programiranje\C_C++_C#\C#\C-_learning\06_OOP\C01_first_class\C01_first_class\obj\Debug\net5.0\C01_first_class.csprojAssemblyReference.cache
+F:\Programiranje\C_C++_C#\C#\C-_learning\06_OOP\C01_first_class\C01_first_class\obj\Debug\net5.0\C01_first_class.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programiranje\C_C++_C#\C#\C-_learning\06_OOP\C01_first_class\C01_first_class\obj\Debug\net5.0\C01_first_class.AssemblyInfoInputs.cache
+F:\Programiranje\C_C++_C#\C#\C-_learning\06_OOP\C01_first_class\C01_first_class\obj\Debug\net5.0\C01_first_class.AssemblyInfo.cs
+F:\Programiranje\C_C++_C#\C#\C-_learning\06_OOP\C01_first_class\C01_first_class\obj\Debug\net5.0\C01_first_class.csproj.CoreCompileInputs.cache
+F:\Programiranje\C_C++_C#\C#\C-_learning\06_OOP\C01_first_class\C01_first_class\obj\Debug\net5.0\C01_first_class.dll
+F:\Programiranje\C_C++_C#\C#\C-_learning\06_OOP\C01_first_class\C01_first_class\obj\Debug\net5.0\ref\C01_first_class.dll
+F:\Programiranje\C_C++_C#\C#\C-_learning\06_OOP\C01_first_class\C01_first_class\obj\Debug\net5.0\C01_first_class.pdb
+F:\Programiranje\C_C++_C#\C#\C-_learning\06_OOP\C01_first_class\C01_first_class\obj\Debug\net5.0\C01_first_class.genruntimeconfig.cache

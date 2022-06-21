@@ -1,0 +1,16 @@
+F:\Programiranje\C_C++_C#\C#\C-_learning\06_OOP\C03_members_finalizers_destructors\C03_members_finalizers_destructors\bin\Debug\net5.0\C03_members_finalizers_destructors.exe
+F:\Programiranje\C_C++_C#\C#\C-_learning\06_OOP\C03_members_finalizers_destructors\C03_members_finalizers_destructors\bin\Debug\net5.0\C03_members_finalizers_destructors.deps.json
+F:\Programiranje\C_C++_C#\C#\C-_learning\06_OOP\C03_members_finalizers_destructors\C03_members_finalizers_destructors\bin\Debug\net5.0\C03_members_finalizers_destructors.runtimeconfig.json
+F:\Programiranje\C_C++_C#\C#\C-_learning\06_OOP\C03_members_finalizers_destructors\C03_members_finalizers_destructors\bin\Debug\net5.0\C03_members_finalizers_destructors.runtimeconfig.dev.json
+F:\Programiranje\C_C++_C#\C#\C-_learning\06_OOP\C03_members_finalizers_destructors\C03_members_finalizers_destructors\bin\Debug\net5.0\C03_members_finalizers_destructors.dll
+F:\Programiranje\C_C++_C#\C#\C-_learning\06_OOP\C03_members_finalizers_destructors\C03_members_finalizers_destructors\bin\Debug\net5.0\ref\C03_members_finalizers_destructors.dll
+F:\Programiranje\C_C++_C#\C#\C-_learning\06_OOP\C03_members_finalizers_destructors\C03_members_finalizers_destructors\bin\Debug\net5.0\C03_members_finalizers_destructors.pdb
+F:\Programiranje\C_C++_C#\C#\C-_learning\06_OOP\C03_members_finalizers_destructors\C03_members_finalizers_destructors\obj\Debug\net5.0\C03_members_finalizers_destructors.csprojAssemblyReference.cache
+F:\Programiranje\C_C++_C#\C#\C-_learning\06_OOP\C03_members_finalizers_destructors\C03_members_finalizers_destructors\obj\Debug\net5.0\C03_members_finalizers_destructors.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programiranje\C_C++_C#\C#\C-_learning\06_OOP\C03_members_finalizers_destructors\C03_members_finalizers_destructors\obj\Debug\net5.0\C03_members_finalizers_destructors.AssemblyInfoInputs.cache
+F:\Programiranje\C_C++_C#\C#\C-_learning\06_OOP\C03_members_finalizers_destructors\C03_members_finalizers_destructors\obj\Debug\net5.0\C03_members_finalizers_destructors.AssemblyInfo.cs
+F:\Programiranje\C_C++_C#\C#\C-_learning\06_OOP\C03_members_finalizers_destructors\C03_members_finalizers_destructors\obj\Debug\net5.0\C03_members_finalizers_destructors.csproj.CoreCompileInputs.cache
+F:\Programiranje\C_C++_C#\C#\C-_learning\06_OOP\C03_members_finalizers_destructors\C03_members_finalizers_destructors\obj\Debug\net5.0\C03_members_finalizers_destructors.dll
+F:\Programiranje\C_C++_C#\C#\C-_learning\06_OOP\C03_members_finalizers_destructors\C03_members_finalizers_destructors\obj\Debug\net5.0\ref\C03_members_finalizers_destructors.dll
+F:\Programiranje\C_C++_C#\C#\C-_learning\06_OOP\C03_members_finalizers_destructors\C03_members_finalizers_destructors\obj\Debug\net5.0\C03_members_finalizers_destructors.pdb
+F:\Programiranje\C_C++_C#\C#\C-_learning\06_OOP\C03_members_finalizers_destructors\C03_members_finalizers_destructors\obj\Debug\net5.0\C03_members_finalizers_destructors.genruntimeconfig.cache

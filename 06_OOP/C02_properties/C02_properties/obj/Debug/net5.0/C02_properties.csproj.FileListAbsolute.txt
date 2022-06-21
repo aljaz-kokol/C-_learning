@@ -1,0 +1,16 @@
+F:\Programiranje\C_C++_C#\C#\C-_learning\06_OOP\C02_properties\C02_properties\bin\Debug\net5.0\C02_properties.exe
+F:\Programiranje\C_C++_C#\C#\C-_learning\06_OOP\C02_properties\C02_properties\bin\Debug\net5.0\C02_properties.deps.json
+F:\Programiranje\C_C++_C#\C#\C-_learning\06_OOP\C02_properties\C02_properties\bin\Debug\net5.0\C02_properties.runtimeconfig.json
+F:\Programiranje\C_C++_C#\C#\C-_learning\06_OOP\C02_properties\C02_properties\bin\Debug\net5.0\C02_properties.runtimeconfig.dev.json
+F:\Programiranje\C_C++_C#\C#\C-_learning\06_OOP\C02_properties\C02_properties\bin\Debug\net5.0\C02_properties.dll
+F:\Programiranje\C_C++_C#\C#\C-_learning\06_OOP\C02_properties\C02_properties\bin\Debug\net5.0\ref\C02_properties.dll
+F:\Programiranje\C_C++_C#\C#\C-_learning\06_OOP\C02_properties\C02_properties\bin\Debug\net5.0\C02_properties.pdb
+F:\Programiranje\C_C++_C#\C#\C-_learning\06_OOP\C02_properties\C02_properties\obj\Debug\net5.0\C02_properties.csprojAssemblyReference.cache
+F:\Programiranje\C_C++_C#\C#\C-_learning\06_OOP\C02_properties\C02_properties\obj\Debug\net5.0\C02_properties.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programiranje\C_C++_C#\C#\C-_learning\06_OOP\C02_properties\C02_properties\obj\Debug\net5.0\C02_properties.AssemblyInfoInputs.cache
+F:\Programiranje\C_C++_C#\C#\C-_learning\06_OOP\C02_properties\C02_properties\obj\Debug\net5.0\C02_properties.AssemblyInfo.cs
+F:\Programiranje\C_C++_C#\C#\C-_learning\06_OOP\C02_properties\C02_properties\obj\Debug\net5.0\C02_properties.csproj.CoreCompileInputs.cache
+F:\Programiranje\C_C++_C#\C#\C-_learning\06_OOP\C02_properties\C02_properties\obj\Debug\net5.0\C02_properties.dll
+F:\Programiranje\C_C++_C#\C#\C-_learning\06_OOP\C02_properties\C02_properties\obj\Debug\net5.0\ref\C02_properties.dll
+F:\Programiranje\C_C++_C#\C#\C-_learning\06_OOP\C02_properties\C02_properties\obj\Debug\net5.0\C02_properties.pdb
+F:\Programiranje\C_C++_C#\C#\C-_learning\06_OOP\C02_properties\C02_properties\obj\Debug\net5.0\C02_properties.genruntimeconfig.cache
