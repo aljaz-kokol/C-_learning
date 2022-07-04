@@ -1,0 +1,16 @@
+F:\Programiranje\C_C++_C#\C#\C-_learning\07_Collections\C02_Arrays\C02_Arrays\bin\Debug\net5.0\C02_Arrays.exe
+F:\Programiranje\C_C++_C#\C#\C-_learning\07_Collections\C02_Arrays\C02_Arrays\bin\Debug\net5.0\C02_Arrays.deps.json
+F:\Programiranje\C_C++_C#\C#\C-_learning\07_Collections\C02_Arrays\C02_Arrays\bin\Debug\net5.0\C02_Arrays.runtimeconfig.json
+F:\Programiranje\C_C++_C#\C#\C-_learning\07_Collections\C02_Arrays\C02_Arrays\bin\Debug\net5.0\C02_Arrays.runtimeconfig.dev.json
+F:\Programiranje\C_C++_C#\C#\C-_learning\07_Collections\C02_Arrays\C02_Arrays\bin\Debug\net5.0\C02_Arrays.dll
+F:\Programiranje\C_C++_C#\C#\C-_learning\07_Collections\C02_Arrays\C02_Arrays\bin\Debug\net5.0\ref\C02_Arrays.dll
+F:\Programiranje\C_C++_C#\C#\C-_learning\07_Collections\C02_Arrays\C02_Arrays\bin\Debug\net5.0\C02_Arrays.pdb
+F:\Programiranje\C_C++_C#\C#\C-_learning\07_Collections\C02_Arrays\C02_Arrays\obj\Debug\net5.0\C02_Arrays.csprojAssemblyReference.cache
+F:\Programiranje\C_C++_C#\C#\C-_learning\07_Collections\C02_Arrays\C02_Arrays\obj\Debug\net5.0\C02_Arrays.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programiranje\C_C++_C#\C#\C-_learning\07_Collections\C02_Arrays\C02_Arrays\obj\Debug\net5.0\C02_Arrays.AssemblyInfoInputs.cache
+F:\Programiranje\C_C++_C#\C#\C-_learning\07_Collections\C02_Arrays\C02_Arrays\obj\Debug\net5.0\C02_Arrays.AssemblyInfo.cs
+F:\Programiranje\C_C++_C#\C#\C-_learning\07_Collections\C02_Arrays\C02_Arrays\obj\Debug\net5.0\C02_Arrays.csproj.CoreCompileInputs.cache
+F:\Programiranje\C_C++_C#\C#\C-_learning\07_Collections\C02_Arrays\C02_Arrays\obj\Debug\net5.0\C02_Arrays.dll
+F:\Programiranje\C_C++_C#\C#\C-_learning\07_Collections\C02_Arrays\C02_Arrays\obj\Debug\net5.0\ref\C02_Arrays.dll
+F:\Programiranje\C_C++_C#\C#\C-_learning\07_Collections\C02_Arrays\C02_Arrays\obj\Debug\net5.0\C02_Arrays.pdb
+F:\Programiranje\C_C++_C#\C#\C-_learning\07_Collections\C02_Arrays\C02_Arrays\obj\Debug\net5.0\C02_Arrays.genruntimeconfig.cache

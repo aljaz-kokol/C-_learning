@@ -1,0 +1,16 @@
+F:\Programiranje\C_C++_C#\C#\C-_learning\07_Collections\C01_Foreach_Switch\C01_Foreach_Switch\bin\Debug\net5.0\C01_Foreach_Switch.exe
+F:\Programiranje\C_C++_C#\C#\C-_learning\07_Collections\C01_Foreach_Switch\C01_Foreach_Switch\bin\Debug\net5.0\C01_Foreach_Switch.deps.json
+F:\Programiranje\C_C++_C#\C#\C-_learning\07_Collections\C01_Foreach_Switch\C01_Foreach_Switch\bin\Debug\net5.0\C01_Foreach_Switch.runtimeconfig.json
+F:\Programiranje\C_C++_C#\C#\C-_learning\07_Collections\C01_Foreach_Switch\C01_Foreach_Switch\bin\Debug\net5.0\C01_Foreach_Switch.runtimeconfig.dev.json
+F:\Programiranje\C_C++_C#\C#\C-_learning\07_Collections\C01_Foreach_Switch\C01_Foreach_Switch\bin\Debug\net5.0\C01_Foreach_Switch.dll
+F:\Programiranje\C_C++_C#\C#\C-_learning\07_Collections\C01_Foreach_Switch\C01_Foreach_Switch\bin\Debug\net5.0\ref\C01_Foreach_Switch.dll
+F:\Programiranje\C_C++_C#\C#\C-_learning\07_Collections\C01_Foreach_Switch\C01_Foreach_Switch\bin\Debug\net5.0\C01_Foreach_Switch.pdb
+F:\Programiranje\C_C++_C#\C#\C-_learning\07_Collections\C01_Foreach_Switch\C01_Foreach_Switch\obj\Debug\net5.0\C01_Foreach_Switch.csprojAssemblyReference.cache
+F:\Programiranje\C_C++_C#\C#\C-_learning\07_Collections\C01_Foreach_Switch\C01_Foreach_Switch\obj\Debug\net5.0\C01_Foreach_Switch.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programiranje\C_C++_C#\C#\C-_learning\07_Collections\C01_Foreach_Switch\C01_Foreach_Switch\obj\Debug\net5.0\C01_Foreach_Switch.AssemblyInfoInputs.cache
+F:\Programiranje\C_C++_C#\C#\C-_learning\07_Collections\C01_Foreach_Switch\C01_Foreach_Switch\obj\Debug\net5.0\C01_Foreach_Switch.AssemblyInfo.cs
+F:\Programiranje\C_C++_C#\C#\C-_learning\07_Collections\C01_Foreach_Switch\C01_Foreach_Switch\obj\Debug\net5.0\C01_Foreach_Switch.csproj.CoreCompileInputs.cache
+F:\Programiranje\C_C++_C#\C#\C-_learning\07_Collections\C01_Foreach_Switch\C01_Foreach_Switch\obj\Debug\net5.0\C01_Foreach_Switch.dll
+F:\Programiranje\C_C++_C#\C#\C-_learning\07_Collections\C01_Foreach_Switch\C01_Foreach_Switch\obj\Debug\net5.0\ref\C01_Foreach_Switch.dll
+F:\Programiranje\C_C++_C#\C#\C-_learning\07_Collections\C01_Foreach_Switch\C01_Foreach_Switch\obj\Debug\net5.0\C01_Foreach_Switch.pdb
+F:\Programiranje\C_C++_C#\C#\C-_learning\07_Collections\C01_Foreach_Switch\C01_Foreach_Switch\obj\Debug\net5.0\C01_Foreach_Switch.genruntimeconfig.cache
