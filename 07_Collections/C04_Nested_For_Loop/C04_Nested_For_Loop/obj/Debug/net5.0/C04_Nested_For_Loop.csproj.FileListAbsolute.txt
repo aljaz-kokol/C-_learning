@@ -1,0 +1,16 @@
+F:\Programiranje\C_C++_C#\C#\C-_learning\07_Collections\C04_Nested_For_Loop\C04_Nested_For_Loop\bin\Debug\net5.0\C04_Nested_For_Loop.exe
+F:\Programiranje\C_C++_C#\C#\C-_learning\07_Collections\C04_Nested_For_Loop\C04_Nested_For_Loop\bin\Debug\net5.0\C04_Nested_For_Loop.deps.json
+F:\Programiranje\C_C++_C#\C#\C-_learning\07_Collections\C04_Nested_For_Loop\C04_Nested_For_Loop\bin\Debug\net5.0\C04_Nested_For_Loop.runtimeconfig.json
+F:\Programiranje\C_C++_C#\C#\C-_learning\07_Collections\C04_Nested_For_Loop\C04_Nested_For_Loop\bin\Debug\net5.0\C04_Nested_For_Loop.runtimeconfig.dev.json
+F:\Programiranje\C_C++_C#\C#\C-_learning\07_Collections\C04_Nested_For_Loop\C04_Nested_For_Loop\bin\Debug\net5.0\C04_Nested_For_Loop.dll
+F:\Programiranje\C_C++_C#\C#\C-_learning\07_Collections\C04_Nested_For_Loop\C04_Nested_For_Loop\bin\Debug\net5.0\ref\C04_Nested_For_Loop.dll
+F:\Programiranje\C_C++_C#\C#\C-_learning\07_Collections\C04_Nested_For_Loop\C04_Nested_For_Loop\bin\Debug\net5.0\C04_Nested_For_Loop.pdb
+F:\Programiranje\C_C++_C#\C#\C-_learning\07_Collections\C04_Nested_For_Loop\C04_Nested_For_Loop\obj\Debug\net5.0\C04_Nested_For_Loop.csprojAssemblyReference.cache
+F:\Programiranje\C_C++_C#\C#\C-_learning\07_Collections\C04_Nested_For_Loop\C04_Nested_For_Loop\obj\Debug\net5.0\C04_Nested_For_Loop.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programiranje\C_C++_C#\C#\C-_learning\07_Collections\C04_Nested_For_Loop\C04_Nested_For_Loop\obj\Debug\net5.0\C04_Nested_For_Loop.AssemblyInfoInputs.cache
+F:\Programiranje\C_C++_C#\C#\C-_learning\07_Collections\C04_Nested_For_Loop\C04_Nested_For_Loop\obj\Debug\net5.0\C04_Nested_For_Loop.AssemblyInfo.cs
+F:\Programiranje\C_C++_C#\C#\C-_learning\07_Collections\C04_Nested_For_Loop\C04_Nested_For_Loop\obj\Debug\net5.0\C04_Nested_For_Loop.csproj.CoreCompileInputs.cache
+F:\Programiranje\C_C++_C#\C#\C-_learning\07_Collections\C04_Nested_For_Loop\C04_Nested_For_Loop\obj\Debug\net5.0\C04_Nested_For_Loop.dll
+F:\Programiranje\C_C++_C#\C#\C-_learning\07_Collections\C04_Nested_For_Loop\C04_Nested_For_Loop\obj\Debug\net5.0\ref\C04_Nested_For_Loop.dll
+F:\Programiranje\C_C++_C#\C#\C-_learning\07_Collections\C04_Nested_For_Loop\C04_Nested_For_Loop\obj\Debug\net5.0\C04_Nested_For_Loop.pdb
+F:\Programiranje\C_C++_C#\C#\C-_learning\07_Collections\C04_Nested_For_Loop\C04_Nested_For_Loop\obj\Debug\net5.0\C04_Nested_For_Loop.genruntimeconfig.cache

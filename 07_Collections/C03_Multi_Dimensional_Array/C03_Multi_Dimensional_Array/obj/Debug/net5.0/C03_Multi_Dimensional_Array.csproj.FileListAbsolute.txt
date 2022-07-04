@@ -1,0 +1,16 @@
+F:\Programiranje\C_C++_C#\C#\C-_learning\07_Collections\C03_Multi_Dimensional_Array\C03_Multi_Dimensional_Array\bin\Debug\net5.0\C03_Multi_Dimensional_Array.exe
+F:\Programiranje\C_C++_C#\C#\C-_learning\07_Collections\C03_Multi_Dimensional_Array\C03_Multi_Dimensional_Array\bin\Debug\net5.0\C03_Multi_Dimensional_Array.deps.json
+F:\Programiranje\C_C++_C#\C#\C-_learning\07_Collections\C03_Multi_Dimensional_Array\C03_Multi_Dimensional_Array\bin\Debug\net5.0\C03_Multi_Dimensional_Array.runtimeconfig.json
+F:\Programiranje\C_C++_C#\C#\C-_learning\07_Collections\C03_Multi_Dimensional_Array\C03_Multi_Dimensional_Array\bin\Debug\net5.0\C03_Multi_Dimensional_Array.runtimeconfig.dev.json
+F:\Programiranje\C_C++_C#\C#\C-_learning\07_Collections\C03_Multi_Dimensional_Array\C03_Multi_Dimensional_Array\bin\Debug\net5.0\C03_Multi_Dimensional_Array.dll
+F:\Programiranje\C_C++_C#\C#\C-_learning\07_Collections\C03_Multi_Dimensional_Array\C03_Multi_Dimensional_Array\bin\Debug\net5.0\ref\C03_Multi_Dimensional_Array.dll
+F:\Programiranje\C_C++_C#\C#\C-_learning\07_Collections\C03_Multi_Dimensional_Array\C03_Multi_Dimensional_Array\bin\Debug\net5.0\C03_Multi_Dimensional_Array.pdb
+F:\Programiranje\C_C++_C#\C#\C-_learning\07_Collections\C03_Multi_Dimensional_Array\C03_Multi_Dimensional_Array\obj\Debug\net5.0\C03_Multi_Dimensional_Array.csprojAssemblyReference.cache
+F:\Programiranje\C_C++_C#\C#\C-_learning\07_Collections\C03_Multi_Dimensional_Array\C03_Multi_Dimensional_Array\obj\Debug\net5.0\C03_Multi_Dimensional_Array.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programiranje\C_C++_C#\C#\C-_learning\07_Collections\C03_Multi_Dimensional_Array\C03_Multi_Dimensional_Array\obj\Debug\net5.0\C03_Multi_Dimensional_Array.AssemblyInfoInputs.cache
+F:\Programiranje\C_C++_C#\C#\C-_learning\07_Collections\C03_Multi_Dimensional_Array\C03_Multi_Dimensional_Array\obj\Debug\net5.0\C03_Multi_Dimensional_Array.AssemblyInfo.cs
+F:\Programiranje\C_C++_C#\C#\C-_learning\07_Collections\C03_Multi_Dimensional_Array\C03_Multi_Dimensional_Array\obj\Debug\net5.0\C03_Multi_Dimensional_Array.csproj.CoreCompileInputs.cache
+F:\Programiranje\C_C++_C#\C#\C-_learning\07_Collections\C03_Multi_Dimensional_Array\C03_Multi_Dimensional_Array\obj\Debug\net5.0\C03_Multi_Dimensional_Array.dll
+F:\Programiranje\C_C++_C#\C#\C-_learning\07_Collections\C03_Multi_Dimensional_Array\C03_Multi_Dimensional_Array\obj\Debug\net5.0\ref\C03_Multi_Dimensional_Array.dll
+F:\Programiranje\C_C++_C#\C#\C-_learning\07_Collections\C03_Multi_Dimensional_Array\C03_Multi_Dimensional_Array\obj\Debug\net5.0\C03_Multi_Dimensional_Array.pdb
+F:\Programiranje\C_C++_C#\C#\C-_learning\07_Collections\C03_Multi_Dimensional_Array\C03_Multi_Dimensional_Array\obj\Debug\net5.0\C03_Multi_Dimensional_Array.genruntimeconfig.cache

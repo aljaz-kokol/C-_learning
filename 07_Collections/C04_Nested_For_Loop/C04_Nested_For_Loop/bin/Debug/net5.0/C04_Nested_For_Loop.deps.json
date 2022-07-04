@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "C04_Nested_For_Loop/1.0.0": {
+        "runtime": {
+          "C04_Nested_For_Loop.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C04_Nested_For_Loop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
